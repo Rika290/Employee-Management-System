@@ -1,6 +1,6 @@
 EMS or Employee Management System is: 
 
-•	a web application developed using Python and MySQL database  
+•	a local web application developed using Python and MySQL database  
 •	useful for maintaining both personal and professional  details of employees  
 Objectives:- 	 
 •	to manage a large number of data 
