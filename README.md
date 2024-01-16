@@ -5,7 +5,8 @@ EMS or Employee Management System is:
 
 (A) Objectives:-
 1. to manage a large number of data
-2. to track the record of each  employee working in a Company or Organization -  to reduce the time needed for maintaining such a huge dataset by using this computerized system
+2. to track the record of each  employee working in a Company or Organization
+3. to reduce the time needed for maintaining such a huge dataset by using this computerized system
  
 (B) Libraries and Modules used: 
 1. Backend: 
