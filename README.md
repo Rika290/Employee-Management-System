@@ -2,25 +2,27 @@ EMS or Employee Management System is:
 
 •	a local web application developed using Python and MySQL database  
 •	useful for maintaining both personal and professional  details of employees  
-Objectives:- 	 
-•	to manage a large number of data 
-•	to track the record of each  employee working in a Company or Organization -  to reduce the time needed for maintaining such a huge dataset by using this computerized system
- Features of EMS: 
-•	Login page will be displayed in the home screen of the app
 
-–	It can be logged in by both Admin as well as Employees 
-–	Credentials are provided in Login Excel Sheet as Admin_Login and Emp_Login.
+- Objectives:-
+1. to manage a large number of data
+2. to track the record of each  employee working in a Company or Organization -  to reduce the time needed for maintaining such a huge dataset by using this computerized system
+ 
+- Features of EMS:
+a. Login Page:
 
-
-•	display details of all employees 
-•	add/remove employees by Admin
-•	search for an employee’s detail like branch, age etc  in the record 
-•	update/modify the details of employees
-•	track the daily attendance and approve leave for the employees by admin
-•	Payroll service through which grosspay and overtime pay of employees can be viewed if available
-•	Also, the Company’s  information like Number of Employees branch wise department wise etc is displayed that can be viewed by both admin and employees.
+- Login page will be displayed in the home screen of the app
+- It can be logged in by both Admin as well as Employees
+- Credentials are provided in Login Excel Sheet as Admin_Login and Emp_Login.
   
-Libraries and Modules used: 
+b.display details of all employees
+c. add/remove employees by Admin
+d. search for an employee’s detail like branch, age etc  in the record
+e. update/modify the details of employees
+f. track the daily attendance and approve leave for the employees by admin
+g. Payroll service through which grosspay and overtime pay of employees can be viewed if available
+h. Also, the Company’s  information like Number of Employees branch wise department wise etc is displayed that can be viewed by both admin and employees.
+  
+-Libraries and Modules used: 
 Backend: 
  
 •	Pandas   – library used for data manipulation and analysis 
